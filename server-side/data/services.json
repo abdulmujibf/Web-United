@@ -1,0 +1,54 @@
+{
+  "Services": [
+    {
+      "id": 1,
+      "name": "Studio Rental",
+      "img_url": "https://lh3.googleusercontent.com/proxy/QYGIKdOeEhkg-GV8OMf331COIHdp88tvEkmF3JPnq7nVtMbHy-6KgzddD-x9cpw9sd_IuO4YDeOXYophVHRczjB-ODEGoEaEMdgvKg4AkjFx7Nt4gbTvRONzNwrYTMSrnk_nH1Yp2W4eTrWzMi-Vw_xsOEHNDw"
+    },
+    {
+      "id": 2,
+      "name": "Digital Marketing",
+      "img_url": "https://www.dhadigital.com/wp-content/uploads/2018/10/internet-digital-marketing.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Production House",
+      "img_url": "https://content.jdmagicbox.com/comp/surat/h6/0261px261.x261.160812141519.z6h6/catalogue/amazing-film-production-house-surat-8ky99klsxb.jpg?clr=263340"
+    },
+    {
+      "id": 4,
+      "name": "Animation House",
+      "img_url": "https://i.pinimg.com/736x/02/6f/f7/026ff7028c78833154305a027847906b.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Live Streaming",
+      "img_url": "https://www.alburycity.nsw.gov.au/__data/assets/image/0008/222929/livestream.png"
+    },
+    {
+      "id": 6,
+      "name": "Talent Management",
+      "img_url": "http://www.prosperomanagement.com/wp-content/uploads/Talent-Management-18033.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Event Organizer",
+      "img_url": "https://www.mandreel.com/indonesia/wp-content/uploads/2019/01/event-organizer-in-jakarta-indonesia.jpg"
+    },
+    {
+      "id": 8,
+      "name": "P&R Brand Reputation",
+      "img_url": "http://ypcii.org/ypcii/img/BE/media/20200824172.png"
+    },
+    {
+      "id": 9,
+      "name": "Sports Agency",
+      "img_url": "http://ypcii.org/ypcii/img/BE/media/20200824172.png"
+    },
+    {
+      "id": 10,
+      "name": "Merchandising",
+      "img_url": "https://i1.wp.com/edlibre.com/new/wp-content/uploads/2015/10/shutterstock_181255556.jpg?fit=1568%2C1132&ssl=1"
+    }
+  ]
+}

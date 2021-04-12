@@ -1,0 +1,10 @@
+.card-product {
+  height: 40vh;
+  border-radius: 3px;
+}
+
+.img-card {
+  opacity: 0.6;
+  width: 90%;
+  height: 80%;
+}
